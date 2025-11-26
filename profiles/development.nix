@@ -2,6 +2,7 @@
 
 {
   imports = [
+    ../modules/development
     ../modules/editors
   ];
 }
