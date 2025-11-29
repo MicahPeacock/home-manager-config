@@ -15,10 +15,6 @@
           "mercury" = { id = "ELTO64J-HQPJAW4-R5UNGGU-NKLHVGO-AU2XUP6-Q6F36YF-SRZYGLR-A2FOGAW"; };
         };
         folders = {
-          "Home Manager Config" = {
-            path = "~/.config/home-manager";
-            devices = [ "jupiter" "mercury" "minerva" ];
-          };
           "Documents/Personal Documents" = {
             path = "~/Documents/Personal\ Documents";
             devices = [ "jupiter" "mercury" "minerva" ];
